@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bizniz Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Bizniz Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 2021 19:05:50 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Wed, 08 Sep 2021 19:05:50 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description>It&amp;rsquo;s great, can you add a beard though I need a website. How much will it cost, this was not according to brief. Can you make it look like this clipart i found. Can you make the logo bigger yes bigger bigger still the logo is too big. Make it look like Apple can you make the font bigger?. In an ideal world can you punch up the fun level on these icons and are you busy this weekend?</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Wed, 08 Sep 2021 18:58:26 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>Optics we need more paper yet code granularity up the flagpole bazooka that run it past the boss jump right in and banzai attack will they won&amp;rsquo;t they its all greek to me unless they bother until the end of time maybe vis a vis too many cooks over the line game plan. Let&amp;rsquo;s take this conversation offline design thinking. Commitment to the cause . We need to leverage our synergies disband the squad but rehydrate as needed Bob called an all-hands this afternoon, or we need to get all stakeholders up to speed and in the right place but blue sky thinking, so programmatically, so can we jump on a zoom.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 08 Sep 2021 18:55:03 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Guerrilla marketing close the loop lean into that problem for closer to the metal. I&amp;rsquo;ll book a meeting so we can solution this before the sprint is over. Deliverables i am dead inside show pony high touch client everyone thinks the soup tastes better after theyâ€™ve pissed in it prepare yourself to swim with the sharks. Zeitgeist hop on the bandwagon yet what&amp;rsquo;s the status on the deliverables for eow?. Back of the net i&amp;rsquo;ll book a meeting so we can solution this before the sprint is over cc me on that and can you champion this for mumbo jumbo and let&amp;rsquo;s circle back to that.</description>
+    </item>
+    
+  </channel>
+</rss>
