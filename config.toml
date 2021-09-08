@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jovial-fermat-79f613.netlify.app/'
 languageCode = 'en-us'
 title = 'Bizniz Blog'
 theme = "ananke"
